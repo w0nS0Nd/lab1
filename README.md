@@ -1,5 +1,5 @@
 ## Результати виконання попередніх робіт
-- [Лабораторна робота 3]
+- [Лабораторна робота 3](https://github.com/w0nS0Nd/lab3)
 - [Проект на Webpack](https://github.com/w0nS0Nd/webpack-project)
 - [Лабораторна робота 1](https://github.com/w0nS0Nd/lab1)
 
