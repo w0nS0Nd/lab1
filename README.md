@@ -4,4 +4,4 @@
 - [Лабораторна робота 1]
 
 ## Моя особиста сторінка на GitHub
-- [Моя GitHub сторінка](https://github.com/margieess)
+- [Моя GitHub сторінка](https://github.com/w0nS0Nd)
